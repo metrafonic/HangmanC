@@ -115,7 +115,7 @@ void spillHangman(int antallOrd){
 	printf("\t\t%sMistakes: %s\n\n", header[6],feil);
 	}
 	if (antallGaleGjett==7){
-		printf("\n\t\t  Too ban!!    The answer was: %s\n\n", hangmanOrd[valgteOrd]);
+		printf("\n\t\t  Too band!!    The answer was: %s\n\n", hangmanOrd[valgteOrd]);
 	}
 }
 
